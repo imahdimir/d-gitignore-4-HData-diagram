@@ -1,6 +1,7 @@
 ## Not in the Diagram
 TSE/Board/Prices/Preferred-Shares-D/*
-
+TSE/Board/Prices/Stocks-D/Adjusted/*
+TSE/Board/Prices/Stocks-D/Not-Adj/*
 ## Manually add by me
 venv
 .idea
